@@ -63,5 +63,8 @@ This will automatically open the application in your default web browser (usuall
 - **Image to Text (OCR):** Upload an image to extract text, which you can then send to the Summarizer page.
 - **Manage Profile & Help/Support:** Navigation tabs representing additional functionality and support pages.
 
+## References 🔗
+- [Dns Cache Poisoning Attack](https://drive.google.com/file/d/1dDXTXJaPmjgF5dOSJ9IZksL_hgoCNE-k/view?usp=sharing)
+
 ## License 📜
 ⓒ 2026 - All Rights Reserved.
